@@ -1,2 +1,3 @@
-https://app.netlify.com/sites/dazzling-dodol-ec39bb/
+https://calculatoranushri.netlify.app/
 https://restormentanushri.netlify.app/
+https://portfolioanushri.netlify.app/
